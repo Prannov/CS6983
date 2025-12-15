@@ -1,0 +1,22 @@
+{
+  "calibrated": true,
+  "scale": 1.0,
+  "offset": 20.19921875,
+  "measurements": [
+    {
+      "predicted": 54.4921875,
+      "actual": 69.0,
+      "error": 14.5078125
+    },
+    {
+      "predicted": 58.0078125,
+      "actual": 77.6,
+      "error": 19.592187499999994
+    },
+    {
+      "predicted": 62.40234375,
+      "actual": 70.9,
+      "error": 8.497656250000006
+    }
+  ]
+}
